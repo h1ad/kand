@@ -14,6 +14,7 @@ public class arraylistcls {
 		Array1.add("hello5");
 		Array1.add("hello14");
 		Array1.add("hello145");
+		Array1.add("hello1456");
 
 
 
