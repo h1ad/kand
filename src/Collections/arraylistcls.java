@@ -13,6 +13,8 @@ public class arraylistcls {
 		Array1.add("hello4");
 		Array1.add("hello5");
 		Array1.add("hello14");
+		Array1.add("hello145");
+
 
 
 
